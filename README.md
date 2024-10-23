@@ -1,16 +1,19 @@
-### Hi there 👋
+# Olá, eu sou a Nicole 👋
 
-<!--
-**nicoletomazonipelentir/nicoletomazonipelentir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou uma leitora curiosa apaixonada por Python e Análise de dados. Atualmente, sou desenvolvedora Backend em migração para a área de dados, e gosto de estudar sobre estatistica e criar dashboards com projetos diversos dentro dos meus interesses, que são vários.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
+- Linguagens: Python, PHP
+- Ferramentas: Git, Github, PowerBI, Looker Studio, Google Coolabs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/nicole-tomazoni-pelentir/)
+
+## 🌱 Atualmente aprendendo
+- Ciência de dados (Machine Learning, Estatística, Storytelling)
+
+## 😄 Curiosidades
+- Antes dos meus 20 anos li 100 livros.
+- Amo filmes com efeitos especiais antigos (Caça fantasmas, Jurassic Park, Star Wars)
+- Adoro cozinhar e me aventurar na cozinha
